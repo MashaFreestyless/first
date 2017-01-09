@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MashaB&amp;H</title>
-    <link>http://example.org/index.xml</link>
+    <link>https://mashafreestyless.github.io/first/index.xml</link>
     <description>Recent content on MashaB&amp;H</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jan 2017 18:45:50 +0200</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mashafreestyless.github.io/first/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title> First day in the School</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://mashafreestyless.github.io/first/post/first/</link>
       <pubDate>Mon, 09 Jan 2017 18:45:50 +0200</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://mashafreestyless.github.io/first/post/first/</guid>
       <description>&lt;p&gt;Сьогодні на IT я зробила свій сайт. Мене звати Марія.&lt;/p&gt;
 </description>
     </item>
